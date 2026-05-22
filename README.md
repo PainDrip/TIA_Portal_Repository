@@ -1,2 +1,3 @@
-# tia-portal-v1
-Testing TIA Portal Version Control
+# TIA_Portal_Repository
+Repository for testing Git
+# Testing Siemens TIA Portal
